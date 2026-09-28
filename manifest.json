@@ -1,0 +1,367 @@
+{
+  "version": 2,
+  "base_url": "https://raw.githubusercontent.com/MahmoudN288/islami-era-sounds/main/",
+  "fallback_urls": [
+    "https://cdn.jsdelivr.net/gh/MahmoudN288/islami-era-sounds@main/"
+  ],
+  "eras": {
+    "abbasid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "KHATMAT_FINISHED",
+      "files": [
+        "sound_abbasid_error.wav",
+        "sound_abbasid_select.wav",
+        "sound_abbasid_success.wav",
+        "sound_abbasid_tap.wav",
+        "sound_abbasid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_abbasid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_abbasid_select.wav": "d56f49d1b55ee2e07a332e1c35bc2c8e255796d5be7b2644bc7f47dab48f98d7",
+        "sound_abbasid_success.wav": "bbcb25ee07e92974e43838f9afbebd0ac8ec1d401252aa39d064784a8f128af8",
+        "sound_abbasid_tap.wav": "700fb5a5845b14e00b5081c0c5d3cb3d9c43a412a921b5eb9157773d73a41d2b",
+        "sound_abbasid_unlock_legendary.wav": "6641f30197deb9bef57449a0487659a9ee045513cb551125dc4018d4b75b6ea8"
+      }
+    },
+    "andalusian": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "TASBIH_STREAK_30",
+      "files": [
+        "sound_andalusian_error.wav",
+        "sound_andalusian_select.wav",
+        "sound_andalusian_success.wav",
+        "sound_andalusian_tap.wav",
+        "sound_andalusian_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_andalusian_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_andalusian_select.wav": "941035a52feeca2baeea125e9f6004cf53c71679d6bab0ddb6530331867356a3",
+        "sound_andalusian_success.wav": "8b9935a6415bb481f15472a082d0aee50646d70c3f57bb74fff5cf13476b3659",
+        "sound_andalusian_tap.wav": "02794793c2e770bf7047e649825365a9730d5017ccac32f490653f62bf1bee40",
+        "sound_andalusian_unlock_legendary.wav": "d5e0ba4df49cd23b079c3b00fa3678b2b4ddf3c90f0c35e290404140e2505162"
+      }
+    },
+    "ayyubid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "OFFICIAL_100_WINS",
+      "files": [
+        "sound_ayyubid_error.wav",
+        "sound_ayyubid_select.wav",
+        "sound_ayyubid_success.wav",
+        "sound_ayyubid_tap.wav",
+        "sound_ayyubid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_ayyubid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_ayyubid_select.wav": "bca9baa5fb766c24bd654d07b5086e2a858ede40202faa4613b7142d805a4406",
+        "sound_ayyubid_success.wav": "231987f11f0682c6e52b8d25605d6cd8fec08024bf72ebd6242f8ed751b06ea4",
+        "sound_ayyubid_tap.wav": "4e06683a8a732f0494ebafe88a295db265e435de6fbfb8d94f3eb8285fea445b",
+        "sound_ayyubid_unlock_legendary.wav": "31e9692ecfe2cd0a231e4c6b09e4ff32fd48562d9c072112906c595bba67e4bd"
+      }
+    },
+    "contemporary": {
+      "initial": true,
+      "version": 2,
+      "files": [
+        "sound_contemporary_error.wav",
+        "sound_contemporary_select.wav",
+        "sound_contemporary_success.wav",
+        "sound_contemporary_tap.wav",
+        "sound_contemporary_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_contemporary_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_contemporary_select.wav": "4c2e22f974947728b9ecd3000af5a098aa3c3f584394a9b1781ef5390c2dd18a",
+        "sound_contemporary_success.wav": "8e5f03f23ef847a131ae809d29b7b097e9fb8a631cfc24d5b17b26ead6031a7d",
+        "sound_contemporary_tap.wav": "ef8d6f44b1060cc50eef4cdc133315663a21ca4106c5bf35e1cf6fa25ea8ee81",
+        "sound_contemporary_unlock_legendary.wav": "c7a6d0521c4a8ddb22b07201c13ec25e1233cda1953d115d78cf0cff01623efd"
+      }
+    },
+    "fatimid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "QUIZ_GRANDMASTER",
+      "files": [
+        "sound_fatimid_error.wav",
+        "sound_fatimid_select.wav",
+        "sound_fatimid_success.wav",
+        "sound_fatimid_tap.wav",
+        "sound_fatimid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_fatimid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_fatimid_select.wav": "fce71b4b9f7d1d372f2de28e0de6203fe6d0d7a3136302063d2f0d47221291ca",
+        "sound_fatimid_success.wav": "cf8fb1133db1a1f4ac56aa0700a6e13cc8d638abb894703ba3453fe4f5b1c3de",
+        "sound_fatimid_tap.wav": "283b8269e98bc553746171891e01b4780fae200f3e31cdda845335ec50d1775d",
+        "sound_fatimid_unlock_legendary.wav": "841950bf6cf9e27fdc6da39143c46273e54d3fa03a225ad44e9b4207938db266"
+      }
+    },
+    "ghaznavid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "COMPETITION_100_WINS",
+      "files": [
+        "sound_ghaznavid_error.wav",
+        "sound_ghaznavid_select.wav",
+        "sound_ghaznavid_success.wav",
+        "sound_ghaznavid_tap.wav",
+        "sound_ghaznavid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_ghaznavid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_ghaznavid_select.wav": "581c21f33efe13b39359b75592e63e775a298660dccc602633d67908a927d612",
+        "sound_ghaznavid_success.wav": "1113894b60f00d1d18abc0265f838a8d46c952cf2daa20633b72c11a27b5f442",
+        "sound_ghaznavid_tap.wav": "0cc567c5781861f5d8a6436a90cc76ef13449484521836a10533d1f6c404ea10",
+        "sound_ghaznavid_unlock_legendary.wav": "bb6e5dd323a16ef110a11203a10b370c9d03acf7bea07b94079337f1a4ee3ad8"
+      }
+    },
+    "ilkhanate": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "ORDERING_GRANDMASTER",
+      "files": [
+        "sound_ilkhanate_error.wav",
+        "sound_ilkhanate_select.wav",
+        "sound_ilkhanate_success.wav",
+        "sound_ilkhanate_tap.wav",
+        "sound_ilkhanate_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_ilkhanate_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_ilkhanate_select.wav": "950cdc893d28d502bfa0974b97feeb041e70c2ef6be5a107263217b01202140c",
+        "sound_ilkhanate_success.wav": "9b5089c27b483f2815f8db8de0f990f74ff8bc27ab4f805fb3927ba76784282e",
+        "sound_ilkhanate_tap.wav": "92d6b238a509f28d672a65df70971d5c376d725063e785e5a02ae45923f83cc7",
+        "sound_ilkhanate_unlock_legendary.wav": "f17456abf33f5207e373fdf72a3f6c58a053cfa3b93804d757f73687f673d454"
+      }
+    },
+    "kilwa": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "FASTEST_PLAYER",
+      "files": [
+        "sound_kilwa_error.wav",
+        "sound_kilwa_select.wav",
+        "sound_kilwa_success.wav",
+        "sound_kilwa_tap.wav",
+        "sound_kilwa_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_kilwa_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_kilwa_select.wav": "a1798b57228b07d65276d68caa269735b3da92254fe8fc6eadb3e9a585073602",
+        "sound_kilwa_success.wav": "f9634cc41e1c7f9c6947b7b3e8a9413360d9d084389fa379587c5b2d277ef0b1",
+        "sound_kilwa_tap.wav": "ed5ecaa6c0808dd95babb6d1d47b286f6e86aed9f14d27e43f7aa6de5c5c4c31",
+        "sound_kilwa_unlock_legendary.wav": "79b334ef71b5392848d420b3df04788d56eaf67ce99575a7602e4749605c321d"
+      }
+    },
+    "malacca": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "SUPER_HOST",
+      "files": [
+        "sound_malacca_error.wav",
+        "sound_malacca_select.wav",
+        "sound_malacca_success.wav",
+        "sound_malacca_tap.wav",
+        "sound_malacca_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_malacca_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_malacca_select.wav": "992a6ba41f3a9923576aa9e271973b0a02ac268171f87171a99a74e7c689f695",
+        "sound_malacca_success.wav": "c8c4b3f9adc07f492e54acee7f1f06e8d2b5a73d6350ebb73479cb89d2c0e4b8",
+        "sound_malacca_tap.wav": "fc57def71530827581c36da247a34afd6930a64a6e3faaf69f91ca7093f0da33",
+        "sound_malacca_unlock_legendary.wav": "5f4787d34c55c2859fe59bf8b19c14b16db2d09b59ad3f745bc1b670149201ae"
+      }
+    },
+    "mali": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "RANDOM_DOMINATOR",
+      "files": [
+        "sound_mali_error.wav",
+        "sound_mali_select.wav",
+        "sound_mali_success.wav",
+        "sound_mali_tap.wav",
+        "sound_mali_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_mali_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_mali_select.wav": "08d87204d88cde9a15864f2da18315e51084551f5ed6aec978afba4a1e934d23",
+        "sound_mali_success.wav": "1253e7176efd71ffabe7de48e1c19c641b3a6dd6e143b7e86a698cd510087374",
+        "sound_mali_tap.wav": "76c1851f2ef321ca16ffbddb864cefe0398de86586e1a297fcfeb4f2f328579b",
+        "sound_mali_unlock_legendary.wav": "3d5a35a9ca597fda401e78ec7180597759063ac3a82d15ceec61787162b01c23"
+      }
+    },
+    "mamluk": {
+      "initial": true,
+      "version": 2,
+      "files": [
+        "sound_mamluk_error.wav",
+        "sound_mamluk_select.wav",
+        "sound_mamluk_success.wav",
+        "sound_mamluk_tap.wav",
+        "sound_mamluk_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_mamluk_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_mamluk_select.wav": "0606e57eff14af452f7e234e08af12eb2d6f126b4bea90690626f7819e040592",
+        "sound_mamluk_success.wav": "52e4c27278b982f42187e4f776de97940d246ba4fe5a2ba0e94d7d6c038dbdd4",
+        "sound_mamluk_tap.wav": "a8ddc47d844344fd6f933f39a8a28d77d0ff7befc2faa71863f45a95d9b74f87",
+        "sound_mamluk_unlock_legendary.wav": "653a1fcc8a0d6f3eb927420c06a6e482c3df2c071f55bd04452d30f40cbc9ad6"
+      }
+    },
+    "mughal": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "GOLD_COLLECTOR",
+      "files": [
+        "sound_mughal_error.wav",
+        "sound_mughal_select.wav",
+        "sound_mughal_success.wav",
+        "sound_mughal_tap.wav",
+        "sound_mughal_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_mughal_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_mughal_select.wav": "a1b0befc82cd8e439798fe9e6d0bd8c3227dd2a48d08cc6f236c303b0feecd88",
+        "sound_mughal_success.wav": "e68501bfcb0c411858af26847a0f5f51c4a2155c08a5ef4e04a6e8495d2d5e6a",
+        "sound_mughal_tap.wav": "fbe28aa76f05a7c69ff23561377312623265c77384a4680e9cc82dfb6c4a80e4",
+        "sound_mughal_unlock_legendary.wav": "08d3574704f39699a956e22f3c6593bbd56a5cc72e7ca564bc6a3d7a476e98ed"
+      }
+    },
+    "ottoman": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "COMPETITION_50_WINS",
+      "files": [
+        "sound_ottoman_error.wav",
+        "sound_ottoman_select.wav",
+        "sound_ottoman_success.wav",
+        "sound_ottoman_tap.wav",
+        "sound_ottoman_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_ottoman_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_ottoman_select.wav": "6ba10c41429f43f42cf1b76cd15e3d3b03bad4a1e1bf20ea2676e9607c312be7",
+        "sound_ottoman_success.wav": "074f8038504eb5b9b381b2bcbe84f5ea348d4fd3990c452185243542c7d657ae",
+        "sound_ottoman_tap.wav": "02fc8b8d487070c21f928ee40380124cbfd10f361923d9cb97eec119b8c20ce0",
+        "sound_ottoman_unlock_legendary.wav": "74e3ded443e75f30dd2a8f5a5d265afd4e755b489d1d4abc8ac0c8fa772f342c"
+      }
+    },
+    "safavid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "MATCHING_GRANDMASTER",
+      "files": [
+        "sound_safavid_error.wav",
+        "sound_safavid_select.wav",
+        "sound_safavid_success.wav",
+        "sound_safavid_tap.wav",
+        "sound_safavid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_safavid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_safavid_select.wav": "50d3887879e8216975b691985c6cb3af1fbf1fcd1f0604dd0b9c5988bae84096",
+        "sound_safavid_success.wav": "9b06fa51bd90db3e7f0a6f5e17c86aff18f9e4efb92d3a2f75022d7129b94b2b",
+        "sound_safavid_tap.wav": "812effd6b30c2bf68cad5b895f97dc77d065e3021e29591d5abe9288579a8a81",
+        "sound_safavid_unlock_legendary.wav": "e344d14b6b550d50958960b42df2ce186172a0c67e630aadfe2eb5a6ca71ca76"
+      }
+    },
+    "samanid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "HARD_MASTER",
+      "files": [
+        "sound_samanid_error.wav",
+        "sound_samanid_select.wav",
+        "sound_samanid_success.wav",
+        "sound_samanid_tap.wav",
+        "sound_samanid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_samanid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_samanid_select.wav": "9f7f48ed81e6ef5cff11850663bde598f7f234fab5bfa02b6ce20166272acece",
+        "sound_samanid_success.wav": "e7ff3b44a2af214da5920c61c873658f614e708d6cda109db826790cc828eec8",
+        "sound_samanid_tap.wav": "a49a552389c2503318926b2a4164bc080feca26402521306c385903819da140e",
+        "sound_samanid_unlock_legendary.wav": "8a9321a82a2a805137c73cf9c5c8e4042a105c7d0f406d563b06641513943571"
+      }
+    },
+    "seljuk": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "COMMUNITY_CHAMPION",
+      "files": [
+        "sound_seljuk_error.wav",
+        "sound_seljuk_select.wav",
+        "sound_seljuk_success.wav",
+        "sound_seljuk_tap.wav",
+        "sound_seljuk_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_seljuk_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_seljuk_select.wav": "c7f0d818d967dfebf1dd243ad0eef9a5e8ab5210a1d85cbdd266b9ca60ce6e52",
+        "sound_seljuk_success.wav": "f646b2e02b487722f4a596b3b3b5120fecc8d021cc03fa2ccc85b55914afdb87",
+        "sound_seljuk_tap.wav": "9259999d7d59bd200c4745bbf2b78cf34891ce775fbb6be7d4081ee6dba83a10",
+        "sound_seljuk_unlock_legendary.wav": "611754e583300b6945f2924caa13485e82041a7503edfe8b917d6fd8b36b2f82"
+      }
+    },
+    "songhai": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "VIEWERS_10000",
+      "files": [
+        "sound_songhai_error.wav",
+        "sound_songhai_select.wav",
+        "sound_songhai_success.wav",
+        "sound_songhai_tap.wav",
+        "sound_songhai_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_songhai_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_songhai_select.wav": "f8f6de19624b882e8fc24b5dfa9d1043e796bae022893fefdc347ba2b4fcf9be",
+        "sound_songhai_success.wav": "293998d68b30187831ba9fcbf020eeeb57d2416de101bf373fdfcf48666aebed",
+        "sound_songhai_tap.wav": "2adf9963f1297b15061b6e8cc4ae277bef335472b09fa7e008eed38048cfc1c6",
+        "sound_songhai_unlock_legendary.wav": "393bc7d246111e820e25e17a2094f2eeaf64ee7d3e5b314974b99b78b00d9efc"
+      }
+    },
+    "timurid": {
+      "initial": false,
+      "version": 2,
+      "unlock_condition": "EXPERT_MASTER",
+      "files": [
+        "sound_timurid_error.wav",
+        "sound_timurid_select.wav",
+        "sound_timurid_success.wav",
+        "sound_timurid_tap.wav",
+        "sound_timurid_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_timurid_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_timurid_select.wav": "4dea29461f856e75ca3f8f906dc199cfab4b665d566d0282cce0f952da7829f0",
+        "sound_timurid_success.wav": "d76a6724152c015698a2b398efdf3d41f3f62784dc6c560c6e7b28b4f557ca61",
+        "sound_timurid_tap.wav": "eb620bb42dd8fb8593fa4bae48a7e47ca58093b246facd129896641831c988ce",
+        "sound_timurid_unlock_legendary.wav": "914f656fc63dba8fb41758855ba8026ac8b71d0df7b826330bb7e0d2fadab7f2"
+      }
+    },
+    "umayyad": {
+      "initial": true,
+      "version": 2,
+      "files": [
+        "sound_umayyad_error.wav",
+        "sound_umayyad_select.wav",
+        "sound_umayyad_success.wav",
+        "sound_umayyad_tap.wav",
+        "sound_umayyad_unlock_legendary.wav"
+      ],
+      "sha256": {
+        "sound_umayyad_error.wav": "9511d5335fcc5d89aaf45d8d4fb5250f4c946b132efdb8f59aab7c9d93c1b88f",
+        "sound_umayyad_select.wav": "cc0882a80dfb925610776f33b0ab28020d15d5f9543e92d2a56aa43bc7fb5e33",
+        "sound_umayyad_success.wav": "ad65fa152e4aa19e2cbbf249f96c17ea35637a94d64a6d00b903eac7a8028e8f",
+        "sound_umayyad_tap.wav": "f891d650b1507a6dad37560d2a639d506727220aa0924fe2fbb0ccc53273f378",
+        "sound_umayyad_unlock_legendary.wav": "3b70f06bcf3ce85b0f59e2c86b3a02437f1f6f7e9390d0b45469f7471657737c"
+      }
+    }
+  }
+}
